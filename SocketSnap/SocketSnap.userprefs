@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1BA9D6AA-D741-DB4F-6AA6-EFED43B6DA39}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Socket.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Socket.cs" Line="31" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SocketSnap PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
